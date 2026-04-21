@@ -1,0 +1,77 @@
+*{
+    margin:0;
+    font-family: sans-serif;
+}
+.headflex{
+    display: flex;
+    gap:10px;
+    color: grey;
+}
+header{
+    display: flex;
+    align-items: center;
+    max-width: 1200px;
+    margin: auto;
+    justify-content: space-between;
+padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:510px){
+
+    .headflex{
+        display: none;
+        padding: 15px;
+        
+    }
+}
